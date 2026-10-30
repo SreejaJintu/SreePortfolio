@@ -48,8 +48,8 @@ export default function Portfolio() {
     location: "Thrissur, Kerala, India",
     email: "sreejaosreenivasan@gmail.com",
     phone: "+91 98469 05704",
-    linkedin: "https://linkedin.com/in/sreeja-sreenivasan",
-    linkedinDisplay: "linkedin.com/in/sreeja-sreenivasan",
+    linkedin: "https://www.linkedin.com/in/sreeja-sreenivasan-360347275/",
+    linkedinDisplay: "linkedin.com/in/sreeja-sreenivasan-360347275",
     github: "https://github.com/SreejaJintu",
     githubDisplay: "github.com/SreejaJintu",
     summary:
@@ -77,17 +77,17 @@ export default function Portfolio() {
       {
         title: "Frontend Technologies",
         icon: <Layout className="w-5 h-5 text-cyan-400" />,
-        skills: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap", "AJAX", "Responsive Design"]
+        skills: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap",  "Responsive Design"]
       },
       {
         title: "Backend Technologies",
         icon: <Server className="w-5 h-5 text-blue-400" />,
-        skills: ["ASP.NET Core", ".NET Core", "C#", "ASP.NET WebForms", "Node.js", "Express.js", "Entity Framework Core", "RESTful APIs"]
+        skills: ["ASP.NET Core", ".NET Core", "C#", "Node.js", "Express.js", "Entity Framework Core", "RESTful APIs"]
       },
       {
         title: "Databases & Storage",
         icon: <Database className="w-5 h-5 text-emerald-400" />,
-        skills: ["Microsoft SQL Server", "MongoDB", "T-SQL", "Stored Procedures", "Indexes & Query Optimization", "Schema Design"]
+        skills: ["Microsoft SQL Server", "MongoDB", "Stored Procedures", "Schema Design"]
       },
       {
         title: "Developer Tools & Security",
